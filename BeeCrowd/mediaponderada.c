@@ -10,6 +10,6 @@ int main()
     X1 = ((X * (P1 + P2)) - (X2 * P2)) / P1;
 
     printf("%lf\n", X1);
-
+    
     return 0;
 }

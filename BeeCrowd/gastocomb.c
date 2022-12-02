@@ -13,6 +13,5 @@ int main()
     gasto = KM / 12.0;
 
     printf("%.3lf\n", gasto);
-    
     return 0;
 }

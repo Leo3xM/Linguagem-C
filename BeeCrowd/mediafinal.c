@@ -17,6 +17,6 @@ int main()
     MF = (((P1) + (2 * P2) + (3 * P3) + (2 * T)) / 8) + ML;
 
     printf("%.2lf\n", MF);
-
+    
     return 0;
 }

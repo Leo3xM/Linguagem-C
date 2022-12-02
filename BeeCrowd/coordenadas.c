@@ -34,6 +34,6 @@ int main()
     {
         printf("Q4\n");
     }
-
+    
     return 0;
 }

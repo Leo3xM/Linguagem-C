@@ -72,6 +72,6 @@ int main()
     {
         printf("TRIANGULO RETANGULO\n");
     }
-
+    
     return 0;
 }

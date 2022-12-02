@@ -18,4 +18,6 @@ int main()
 
     printf("%d:%d:%d\n", hora, min, restoM);
 
+    return 0;
+
 }

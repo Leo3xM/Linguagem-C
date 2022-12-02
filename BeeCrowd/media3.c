@@ -33,6 +33,6 @@ int main()
         printf("Media: %.1lf\nAluno em exame.\nNota do exame: %.1lf\nAluno reprovado.\nMedia final: %.1lf\n", media, N5, media2);
         }
     }
-
+    
     return 0;
 }

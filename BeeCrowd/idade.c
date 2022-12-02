@@ -19,6 +19,6 @@ int main()
     printf("%d ano(s)\n", ano);
     printf("%d mes(es)\n", mes);
     printf("%d dia(s)\n", restoM);
-
+    
     return 0;
 }

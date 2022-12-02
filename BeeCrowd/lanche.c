@@ -26,6 +26,6 @@ int main()
     {
         printf("Total: R$ %.2lf\n", (X * 1.50));
     }
-
+    
     return 0;
 }

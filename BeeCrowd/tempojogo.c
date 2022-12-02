@@ -16,6 +16,5 @@ int main()
         T = (24 - I) + F;
         printf("O JOGO DUROU %d HORA(S)\n", T);
     }
-    
     return 0;
 }

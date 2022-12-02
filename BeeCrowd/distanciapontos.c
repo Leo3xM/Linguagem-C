@@ -12,6 +12,6 @@ int main()
     pit = sqrt(pow(X2 - X1, 2.0) + pow(Y2 - Y1, 2.0));
 
     printf("%.4lf\n", pit);
-
+    
     return 0;
 }

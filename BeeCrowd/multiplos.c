@@ -19,6 +19,6 @@ int main()
     {
         printf("Nao sao Multiplos\n");
     }
-
+    
     return 0;
 }

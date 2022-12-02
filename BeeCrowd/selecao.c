@@ -14,6 +14,6 @@ int main()
     {
         printf("Valores nao aceitos\n");
     }
-
+    
     return 0;
 }

@@ -28,6 +28,6 @@ int main ()
     {
         printf("R1 = %.5lf\nR2 = %.5lf\n", bhask1, bhask2);
     }
-
+    
     return 0;
 }

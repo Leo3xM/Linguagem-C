@@ -10,6 +10,6 @@ int main()
     T = D * 2;
 
     printf("%d minutos\n", T);
-
+    
     return 0;
 }

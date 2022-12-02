@@ -30,7 +30,7 @@ int main()
     {
         printf("%d\n%d\n%d\n\n%d\n%d\n%d\n", A, B, C, A, B, C);
     }
-
+    
     return 0;
 
 }

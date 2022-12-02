@@ -38,5 +38,6 @@ int main()
         X = S * 0.04;
         printf("Novo salario: %.2lf\nReajuste ganho: %.2lf\nEm percentual: 4 %c\n", R, X, P);
     }
+    
     return 0;
 }

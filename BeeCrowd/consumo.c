@@ -12,6 +12,6 @@ int main()
     razao = KM / L;
 
     printf("%.3lf km/l\n", razao);
-
+    
     return 0; 
 }

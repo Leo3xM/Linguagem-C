@@ -56,7 +56,7 @@ int main()
 
         printf("O JOGO DUROU %d HORA(S) E %d MINUTO(S)\n", H, M);
     }
-
+    
     return 0;
 
 }

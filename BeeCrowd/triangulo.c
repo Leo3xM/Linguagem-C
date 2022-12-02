@@ -81,6 +81,6 @@ int main()
             printf("Area = %.1lf\n", X);
         }
     }
-
+    
     return 0;
 }
