@@ -20,7 +20,7 @@ int main()
     }
     else if (X == 21)
     {
-        printf("Rio de Janiro\n");
+        printf("Rio de Janeiro\n");
     }
     else if (X == 32)
     {
